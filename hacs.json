@@ -1,5 +1,6 @@
 {
   "name": "Dashboard Generator",
   "content_in_root": false,
-  "filename": "dashboard_generator"
+  "filename": "ha_dashboard_generator",
+  "iot_class": "Local Polling"
 }
