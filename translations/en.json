@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Chart Generator",
+        "description": "Set up the Chart Generator integration.",
+        "data": {}
+      }
+    }
+  },
+  "title": "Chart Generator"
+}

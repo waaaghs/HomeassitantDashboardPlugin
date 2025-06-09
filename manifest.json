@@ -1,0 +1,12 @@
+{
+  "domain": "chart_generator",
+  "name": "Chart Generator",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourusername/ha-chart-generator",
+  "issue_tracker": "https://github.com/yourusername/ha-chart-generator/issues",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": ["matplotlib>=3.5.0", "numpy>=1.21.0"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
