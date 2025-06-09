@@ -1,6 +1,6 @@
 """Constants for the Chart Generator integration."""
 
-DOMAIN = "chart_generator"
+DOMAIN = "ha_dashboard_generator"
 SERVICE_GENERATE_CHART = "generate_chart"
 
 DEFAULT_CHART_WIDTH = 12

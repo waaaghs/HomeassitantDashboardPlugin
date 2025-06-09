@@ -1,6 +1,6 @@
 {
-  "domain": "chart_generator",
-  "name": "Chart Generator",
+  "domain": "ha_deashboard_generator",
+  "name": "Dashboard Generator",
   "version": "1.0.0",
   "documentation": "https://github.com/yourusername/ha-chart-generator",
   "issue_tracker": "https://github.com/yourusername/ha-chart-generator/issues",
